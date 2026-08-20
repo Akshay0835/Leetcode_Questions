@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

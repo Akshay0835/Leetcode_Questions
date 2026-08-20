@@ -1,28 +1,44 @@
 class Solution {
-    static String map[]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-    static void solve(String digit,String str,int index,List<String> ans){
-        if(index==digit.length()){
-            ans.add(str);
+
+    List<String> ans = new ArrayList<>();
+
+    String mp[] = {
+        "", "", "abc", "def", "ghi",
+        "jkl", "mno", "pqrs", "tuv", "wxyz"
+    };
+
+    void solve(String digits, int index, int letterIndex, StringBuilder temp) {
+
+        if (index == digits.length()) {
+            ans.add(temp.toString());
             return;
         }
-        String letter=map[digit.charAt(index)-'0'];
-        solve2(digit,str,index,ans,letter,0);
-    }
-    static void solve2(String digit,String str,int index,List<String> ans,String letter,int j){
-        if (j == letter.length()) {
+
+        String letters = mp[digits.charAt(index) - '0'];
+
+        if (letterIndex == letters.length()) {
             return;
         }
-        str += letter.charAt(j);
-        solve(digit, str, index + 1, ans);
-        str = str.substring(0, str.length() - 1);
-        solve2(digit, str, index, ans, letter, j + 1);
+
+        temp.append(letters.charAt(letterIndex));
+
+        solve(digits, index + 1, 0, temp);
+
+        temp.deleteCharAt(temp.length() - 1);
+
+        solve(digits, index, letterIndex + 1, temp);
     }
+
     public List<String> letterCombinations(String digits) {
-        List<String> ans=new ArrayList<>();
-        if(digits.length()==0){
-            return ans;
+
+        if (digits.length() == 0) {
+            return new ArrayList<>();
         }
-        solve(digits,"",0,ans);
+
+        StringBuilder temp = new StringBuilder();
+
+        solve(digits, 0, 0, temp);
+
         return ans;
     }
 }

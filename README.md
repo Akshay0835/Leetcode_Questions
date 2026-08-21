@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |

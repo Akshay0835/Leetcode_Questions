@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
 ## Bracket Sequences
 |  |
 | ------- |

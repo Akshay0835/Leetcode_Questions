@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
+| [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0090-subsets-ii) |
+| [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0461-hamming-distance) |
 ## Bracket Sequences

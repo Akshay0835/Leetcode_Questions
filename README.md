@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -140,4 +142,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

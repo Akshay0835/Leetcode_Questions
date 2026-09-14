@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

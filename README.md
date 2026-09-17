@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |

@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0541-reverse-string-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |

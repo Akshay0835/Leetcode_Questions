@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0037-sudoku-solver) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0072-edit-distance) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
 ## Geometry

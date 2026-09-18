@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0461-hamming-distance) |
 ## Bracket Sequences
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Algorithm X
 |  |

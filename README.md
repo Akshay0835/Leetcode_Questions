@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Common Subsequence
 |  |

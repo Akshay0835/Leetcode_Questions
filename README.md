@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Common Subsequence
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sliding Window
 |  |

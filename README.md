@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -320,4 +322,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

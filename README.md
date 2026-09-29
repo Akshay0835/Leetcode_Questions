@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |

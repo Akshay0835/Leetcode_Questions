@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0212-word-search-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0063-unique-paths-ii) |
+| [0212-word-search-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0212-word-search-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0212-word-search-ii) |
 ## Geometry
 |  |
 | ------- |

@@ -30,6 +30,7 @@ class Solution {
 
         ListNode curr=head;
         int carry=0;
+        ListNode prev=null;
 
         while(curr!=null){
 
@@ -37,18 +38,12 @@ class Solution {
 
             curr.val=total%10;
             carry=total/10;
-
+            prev=curr;
             curr=curr.next;
         }
 
         if(carry!=0){
-            curr=head;
-
-            while(curr.next!=null){
-                curr=curr.next;
-            }
-
-            curr.next=new ListNode(carry);
+            prev.next=new ListNode(carry);
         }
 
         head=revList(head);

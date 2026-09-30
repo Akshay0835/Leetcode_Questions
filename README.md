@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Treap
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 ## Monotonic Queue
 |  |
 | ------- |

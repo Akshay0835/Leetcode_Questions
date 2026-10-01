@@ -1,19 +1,24 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        if(nums.length==1){
-            return nums[0];
+        List<Integer> list = new ArrayList<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            if (!list.contains(nums[i])) {
+                list.add(nums[i]);
+            }
         }
-       Set<Integer> set=new TreeSet<>();
-       for(int i=0;i<nums.length;i++){
-        set.add(nums[i]);
-       }
-       ArrayList<Integer> ans=new ArrayList<>(set);
-       int n=ans.size();
-       if(n>=3){
-        return ans.get(n-3);
-       }
-       else{
-        return ans.get(n-1);
-       }
+
+        if (list.size() < 3) {
+            return Collections.max(list);
+        }
+
+        int ans = 0;
+
+        for (int i = 0; i < 3; i++) {
+            ans = Collections.max(list);
+            list.remove(Integer.valueOf(ans));
+        }
+
+        return ans;
     }
 }

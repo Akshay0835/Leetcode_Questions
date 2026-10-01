@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0216-combination-sum-iii) |
+| [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0016-3sum-closest) |
+| [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->

@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |

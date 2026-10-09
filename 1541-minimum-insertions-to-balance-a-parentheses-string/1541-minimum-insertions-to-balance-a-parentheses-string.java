@@ -1,11 +1,11 @@
 class Solution {
     public int minInsertions(String s) {
-        Deque<String> st=new ArrayDeque<>();
+        Deque<Character> st=new ArrayDeque<>();
         int ans=0;
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(ch=='('){
-                st.push(ch+"");
+                st.push(ch);
             }
             else{
                 if(i+1<s.length()&&s.charAt(i+1)==')'){
@@ -14,7 +14,7 @@ class Solution {
                 else{
                     ans++;
                 }
-                if(!st.isEmpty()&&st.peek().equals("(")){
+                if(!st.isEmpty()&&st.peek()=='('){
                     st.pop();
                 }
                 else{

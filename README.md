@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -461,4 +462,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

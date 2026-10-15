@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -325,10 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |

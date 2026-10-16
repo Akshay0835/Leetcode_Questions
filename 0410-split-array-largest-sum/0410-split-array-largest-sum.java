@@ -6,16 +6,18 @@ class Solution {
             s = Math.max(s, i);
             e += i;
         }
+        int ans=0;
         while(s <= e){
             int mid = s + (e - s)/2;
             int pieces = calPieces(a,mid);
             if(pieces > k){
                 s = mid+1;
             }else{
+                ans=mid;
                 e = mid-1;
             }
         }
-        return s;
+        return ans;
     }
     public static int calPieces(int[] arr, int s){
         int sum = 0;

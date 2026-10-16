@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0901-online-stock-span) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

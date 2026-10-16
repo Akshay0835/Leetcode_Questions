@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |

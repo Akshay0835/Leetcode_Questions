@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0312-burst-balloons) |
+| [0410-split-array-largest-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0480-sliding-window-median](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1470-shuffle-the-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0397-integer-replacement) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -510,4 +516,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

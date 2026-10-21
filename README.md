@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0140-word-break-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |

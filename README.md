@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Breadth-First Search
 |  |
 | ------- |

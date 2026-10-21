@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
 | ------- |

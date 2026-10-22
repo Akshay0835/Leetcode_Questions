@@ -1,35 +1,29 @@
 class Solution {
     public String removeKdigits(String num, int k) {
         int count=0;
-        Deque<Integer> st=new ArrayDeque<>();
+        Deque<Character> st=new ArrayDeque<>();
         for(int i=0;i<num.length();i++){
             char ch=num.charAt(i);
-            int val=ch-'0';
-            while(!st.isEmpty()&&count<k&&val<st.peek()){
+            while(!st.isEmpty()&&count<k&&ch<st.peek()){
                 st.pop();
                 count++;
             }
-            st.push(val);
+            st.push(ch);
         }
         while (count < k && !st.isEmpty()) {
             st.pop();
             count++;
         }
-        Deque<Integer> ans=new ArrayDeque<>();
+        StringBuilder sb=new StringBuilder();
         while(!st.isEmpty()){
-            ans.push(st.pop());
+            sb.append(st.pop());
         }
-        String a="";
-        while(!ans.isEmpty()){
-            if(a.equals("")&&ans.peek()==0){
-                ans.pop();
-            }else{
-            a+=ans.pop();
-            }
+        sb.reverse();
+        int index=0;
+        while(index<sb.length()&&sb.charAt(index)=='0'){
+            index++;
         }
-        if(a==""){
-            a+=0;
-        }
-        return a;
+        String ans=sb.substring(index);
+        return ans==""?"0":ans;
     }
 }

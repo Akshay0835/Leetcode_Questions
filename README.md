@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0220-contains-duplicate-iii) |
 | [0414-third-maximum-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshay0835/Leetcode_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -613,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |

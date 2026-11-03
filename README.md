@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0541-reverse-string-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akshay0835/Leetcode_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshay0835/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akshay0835/Leetcode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
